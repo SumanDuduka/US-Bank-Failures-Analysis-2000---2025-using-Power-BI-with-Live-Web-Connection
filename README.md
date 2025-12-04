@@ -1,0 +1,2 @@
+# US-Bank-Failures-Analysis-2000---2025-using-Power-BI-with-Live-Web-Connection
+Designed and implemented a comprehensive interactive Report using Microsoft Power BI to analyze historical trends in the US banking sector over the last 25 years. This project involved establishing a live data connection (Using Power BI's direct query connection mode) to the FDIC government database to ensure real-time reporting of bank failures.
