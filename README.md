@@ -3,7 +3,7 @@
 This Power BI project analyzes 25 years of US banking history to identify trends, volatility, and economic recovery periods. It compares major financial events, specifically contrasting the **2008 Financial Crisis** with the recent **COVID-19 Pandemic era**.
 
 ## Power BI Report
-https://app.powerbi.com/groups/me/reports/cd1f31a3-369c-41e6-b04d-0e2b2d931b6f/f1af04d677b60ec3de73?bookmarkGuid=d4475d55-f912-4587-b16d-a70c28e72674&bookmarkUsage=1&ctid=2daf3b8a-0cf2-4e49-890d-89086138c28f&portalSessionId=827fbf38-6eff-40f8-918d-141d300cc063&fromEntryPoint=export
+[![Power BI Report](<img width="1600" height="900" alt="Power BI Report" src="https://github.com/user-attachments/assets/bccec3fc-b809-4c64-a1f4-1faf8ee27939" />)](https://app.powerbi.com/groups/me/reports/cd1f31a3-369c-41e6-b04d-0e2b2d931b6f/f1af04d677b60ec3de73?bookmarkGuid=d4475d55-f912-4587-b16d-a70c28e72674&bookmarkUsage=1&ctid=2daf3b8a-0cf2-4e49-890d-89086138c28f&portalSessionId=827fbf38-6eff-40f8-918d-141d300cc063&fromEntryPoint=export)
 
 ## Key Technical Features
 *   **Real-Time Data (Direct Query):** Connected directly to the live FDIC government database instead of using static Excel/CSV files.
