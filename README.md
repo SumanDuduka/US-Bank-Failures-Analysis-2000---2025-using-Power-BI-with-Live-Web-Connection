@@ -20,6 +20,6 @@ This Power BI project analyzes 25 years of US banking history to identify trends
     *   Failures in 2021 & 2022: **0**.
  
 ## How to View
-1.  Open the `[Power BI]([URL_GOES_HERE](https://github.com/SumanDuduka/US-Bank-Failures-Analysis-2000-2025-using-Power-BI-with-Live-Web-Connection/blob/58d49dd32420acc252ee6cb4ff17f09c145d0561/US%20Bank%20Failures%20-%20A%2025-Year%20Historical%20Analysis%20(2000%20-%202025).pbix))` file in **Microsoft Power BI Desktop**.
+1.  Open the [Power BI]([URL_GOES_HERE](https://github.com/SumanDuduka/US-Bank-Failures-Analysis-2000-2025-using-Power-BI-with-Live-Web-Connection/blob/58d49dd32420acc252ee6cb4ff17f09c145d0561/US%20Bank%20Failures%20-%20A%2025-Year%20Historical%20Analysis%20(2000%20-%202025).pbix))` file in **Microsoft Power BI Desktop**.
 2.  Click the **"Play"** button on the timeline to watch trends evolve.
 3.  Use the navigation buttons to filter by specific historical eras.
